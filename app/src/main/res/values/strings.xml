@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">material_design</string>
+    <string name="action_settings">settings</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">close navigation drawer</string>
+    <string name="enter_photo_title">Enter photo title</string>
+    <string name="tag1">Tag1</string>
+    <string name="tag2">Tag2</string>
+    <string name="tag3">Tag3</string>
+    <string name="capture">Capture</string>
+    <string name="save">Save</string>
+    <string name="tags">Tags</string>
+    <string name="titles">Titles</string>
+    <string name="show_map">Show map</string>
+    <string-array name="nav_drawer_items">
+        <item >Titles</item>
+        <item> Tags</item>
+        <item>Capture</item>
+    </string-array>
+</resources>
